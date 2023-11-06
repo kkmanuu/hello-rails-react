@@ -1,4 +1,4 @@
-<h1>Budget-App</h1>
+<h1>Hello-Rails-React</h1>
 
 <a name="readme-top"></a>
 
@@ -7,7 +7,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Budget-App](#-blog-app-)
+- [📖 Hello-Rails-React](#-blog-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget-App <a name="about-project"></a>
+# 📖 Hello-Rails-React <a name="about-project"></a>
 
-mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+   Hello-Rails-React: Its primary function is to showcase random greetings selected from a collection of available greetings.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,16 +44,9 @@ mobile web application where you can manage your budget: you have a list of tran
 <p align="right">(<a href="#-table-of-contents">back to top</a>)</p>
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
+
 To get a local copy up and running, follow these steps.
-### Prerequisites
-In order to run this project, you need to have the following installed:
-- **Rails:** Ensure you have Ruby on Rails installed. You can find installation instructions at [Ruby on Rails](https://rubyonrails.org/).
-- **PostgreSQL:** This project uses PostgreSQL as the relational database. If you don't have it, you can download it from [PostgreSQL](https://www.postgresql.org/download/).
-- **Bundler:** Bundler is a tool for managing Ruby gem dependencies. Install it by running gem install bundler if you don't already have it.
-- **React:** React is a JavaScript library used for building the frontend of the application. You can learn more about React at [React](https://reactjs.org/).
-- **Webpack:** Webpack is a module bundler for JavaScript and other files. It's used to bundle and optimize the frontend assets. You can find more information about Webpack at [Webpack](https://webpack.js.org/).
-- **Yarn:** Yarn is a package manager for JavaScript. You can install Yarn by following the instructions at [Yarn](https://classic.yarnpkg.com/en/docs/install/).
-- **Redux:** Redux is a state management library used for managing application state in the frontend. You can learn more about Redux at [Redux](https://redux.js.org/).
+
 ### Setup
 Clone this repository to your desired folder:
 ```bash
@@ -111,7 +104,6 @@ If you like this project, show your support by giving the project a ⭐️.
 
 I would like to thank Microverse for including this in their curriculum.
 
- Major appreciations to Gregoire Vella for the Creative Commons design of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
